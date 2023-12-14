@@ -7,12 +7,13 @@ This script does the following:
 
 Just clone the repository:<br />
 ```
-
+git clone https://github.com/foysalcodeio/Emacs.git
 ```
 
 Save this script as, for example, install_emacs.sh. Make it executable by running:
 
 ```
+cd Emacs
 chmod +x install_emacs.sh
 ```
 Run the script using:
